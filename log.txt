@@ -1,0 +1,64 @@
+Prompt Log Entry 1
+Prompt:
+"This is for an e-commerce website. I want you to enhance style.css with index.html as reference. Make the style colorful and include motion frames in some."
+
+AI Response Summary:
+Recommended a bold color scheme with gradients, clean typography, and included keyframe animations to prominent areas such as banners and buttons. Recommended applying @keyframes for motion.
+
+My Implementation:
+Added gradient backgrounds, hover effects to buttons, and fade-in effects to promotional banners using keyframes.
+
+Reflection:
+Increased my awareness of how to utilize keyframes and transitions. Made the page more visually appealing.
+
+Prompt Log Entry 2
+Prompt:
+"OK make nav bar smaller and sleek. And use proper color theme. Also you can use an image as background image for where big summer sale is written."
+
+AI Response Summary:
+Redesigned navbar to be sleek, minimized padding, employed cool color palette (such as dark blue + white). Included instructions to use background-image and background-size: cover to apply background image to hero section.
+
+My Implementation:
+Has updated CSS with small navbar sizes and used a banner image as the background for the "Big Summer Sale" text.
+
+Reflection:
+Mastered how to balance responsiveness and branding within navbars. The site is cleaner and more contemporary now.
+
+Prompt Log Entry 3
+Prompt:
+"Also align ShopMart text to the left."
+
+AI Response Summary:
+Told to utilize text-align: left or justify-content: space-between within a Flex container to correctly align horizontally.
+
+My Implementation:
+Applied Flexbox on the navbar with justify-content: space-between and align-items: center to move the logo to the left while maintaining alignment of other items.
+
+Reflection:
+Easy solution, but solidified my knowledge of layout management with Flexbox.
+
+Prompt Log Entry 4
+Prompt:
+"Add a login button to the navbar."
+
+AI Response Summary:
+Proposed adding a button element with padding, border-radius, and hover styles. Proposed putting it within the nav container via Flexbox.
+
+My Implementation:
+Added the login button to the top right of the navbar. Styled it with a hover glow effect.
+
+Reflection:
+Good practice for cleanly integrating interactive UI elements into a responsive navbar.
+
+Prompt Log Entry 5
+Prompt:
+"Put more details in the footer."
+
+AI Response Summary
+Suggested adding company information, support links, contact information, and newsletter sign-up input fields. Also proposed using Flexbox or CSS Grid for layout.
+
+My Implementation:
+Duplicated footer into three sections: company information, customer support links, and newsletter sign-up form. Applied Flexbox to layout.
+
+Reflection:
+Learned how to lay out a functional and content-dense footer that is integrated with overall site design.
